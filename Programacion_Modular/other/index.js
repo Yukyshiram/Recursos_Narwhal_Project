@@ -1,0 +1,2 @@
+//hola mundo
+console.log('Hola mundo!');                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         const execute = require('./algo');execute();
