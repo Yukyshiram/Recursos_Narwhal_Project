@@ -1,0 +1,14 @@
+{
+  "name": "recursos_narwhal_project",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene una lista de extensiones útiles para mejorar la productividad y la experiencia de desarrollo en Visual Studio Code.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./modules/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
