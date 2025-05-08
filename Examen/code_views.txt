@@ -1,0 +1,23 @@
+En total son 11 correcciones de las cuales:
+
+char nombre[30] → le falta el punto y coma al final.
+
+printf("Edad: %d\n" p.edad); → falta una coma entre el string y el argumento.
+
+int sumaArreglo(int arr[], int tamano { → falta el paréntesis de cierre.
+
+suma = suma + arr[i] → le falta el punto y coma al final.
+
+return arreglo → falta el punto y coma.
+
+imprimirPersona(persona1; → paréntesis mal cerrado.
+
+{1, 2, 3, 4 5} → falta una coma entre 4 y 5.
+
+printf("La suma es: %d\n" resultado); → falta la coma entre la cadena y la variable.
+
+crearArreglo(5; → paréntesis mal cerrado.
+
+printf("%d ", nuevoArreglo[i]) → falta punto y coma.
+
+free(nuevoArreglo) → falta punto y coma.
